@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.main-container {
+    padding: 20px;
+    background-color: #f8fffe;
+}
+
+.testimonial {
+    padding: 15px;
+    border: 2px solid #1e822c;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.text {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.author {
+    text-align: right;
+    font-style: italic;
+}
